@@ -85,13 +85,13 @@ export const moviesData = [
     title: "1998",
     thumbnail: {
       trending: {
-        small: "./thumbnails/1998/trending/small.jpg",
-        large: "./thumbnails/1998/trending/large.jpg",
+        small: "../../public/thumbnails/1998/trending/small.jpg",
+        large: "../../public/thumbnails/1998/trending/large.jpg",
       },
       regular: {
-        small: "./thumbnails/1998/regular/small.jpg",
-        medium: "./thumbnails/1998/regular/medium.jpg",
-        large: "./thumbnails/1998/regular/large.jpg",
+        small: "../../public/thumbnails/1998/regular/small.jpg",
+        medium: "../../public/thumbnails/1998/regular/medium.jpg",
+        large: "../../public/thumbnails/1998/regular/large.jpg",
       },
     },
     year: 2021,
@@ -365,9 +365,9 @@ export const moviesData = [
     title: "112",
     thumbnail: {
       regular: {
-        small: "./thumbnails/112/regular/small.jpg",
-        medium: "./thumbnails/112/regular/medium.jpg",
-        large: "./thumbnails/112/regular/large.jpg",
+        small: "../../public/thumbnails/112/small.jpg",
+        medium: "../../public/thumbnails/112/medium.jpg",
+        large: "../../public/thumbnails/112/large.jpg",
       },
     },
     year: 2013,
